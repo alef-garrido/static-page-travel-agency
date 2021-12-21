@@ -1,9 +1,13 @@
 # Static Page Clone using REACT
 
-2nd Solo-Projectfrom Scrimba's React course. 
+2nd Solo-Project from Scrimba's React course. 
 
 ![screenshot](./src/App-Screenshot.png)
 
+
+Reference page:
+
+![Origin screenshot](./src/origin-Screenshot.png)
 ## Built With
 
 - HTML5
