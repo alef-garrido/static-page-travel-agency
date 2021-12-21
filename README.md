@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Static Page Clone using REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2nd Solo-Projectfrom Scrimba's React course. 
+
+![screenshot](./src/App-Screenshot.png)
+
+## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+## Live Demo
+
+[Live Demo Link](...)
+
+## How to use this repo
+
+1. Clone the repo
+2. In your terminal, run `npm install`
+3. In your terminal, run `npm start`
+
+You are good to go! It will watch all your files for changes automatically and live update your browser. 
 
 ## Available Scripts
 
@@ -39,32 +60,21 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+
+👤 Alef Garrido
+
+- GitHub: [lef-garrido](https://github.com/alef-garrido)
+- Twitter: [Alef_Garrido](https://twitter.com/Alef_Garrido)
+- LinkedIn: [alef-g](https://www.linkedin.com/in/alef-g/)
+
+## Acknowledgments
+
+- [Scrimba platform](https://scrimba.com)
+- Instructor: [Bob Ziroll](https://twitter.com/bobziroll)
+- React 
