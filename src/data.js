@@ -1,7 +1,7 @@
 const data = [
   {
       title: "Mount Fuji",
-      location: "Japan",
+      location: "JAPAN",
       googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
       startDate: "12 Jan, 2021",
       endDate: "24 Jan, 2021",

@@ -1,3 +1,7 @@
+p {
+  font-size: 10.24px;
+}
+
 .App {
   display: flex;
   flex-direction: column;
@@ -41,7 +45,7 @@
 }
 
 .page {
-  min-width: 550px;
+  width: 550px;
 }
 
 nav {
@@ -51,4 +55,39 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+}
+.card {
+  display: flex;
+}
+.thumbnail {
+  margin: 1rem;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+}
+.location {
+  display: flex;
+  width: 100%;
+  height: auto;
+  align-items: center;
+  justify-content: flex-start
+}
+.icon {
+  margin-right:.5rem;
+}
+.location > h4 {
+  margin-right: .5rem;
+  font-weight: 300;
+}
+.location > a {
+  font-weight: lighter;
+}
+.description > h2 {
+  margin: 0;
 }
