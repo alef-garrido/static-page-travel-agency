@@ -102,9 +102,13 @@ nav {
   color: gray;
 }
 .description > h2 {
-  font-size: 25px;
-
   margin: 0 0 .5rem 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2b283a;
 }
 .dates {
   font-weight: bold;
